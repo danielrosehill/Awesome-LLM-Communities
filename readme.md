@@ -5,8 +5,14 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Awesome GPT Communities ](#awesome-gpt-communities-)
+  - [Contents](#contents)
+  - [Section](#section)
+  - [Another Section](#another-section)
+    - [Subsection](#subsection)
+  - [Contribute](#contribute)
+  - [Author](#author)
+  - [Licensing](#licensing)
 
 
 ## Section
@@ -28,3 +34,12 @@ About this section. Optional. Keep this short and focus on the list.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Author
+
+Daniel Rosehill  
+Contact: public@danielrosehill.com
+
+## Licensing
+
+All my Github repositories are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
