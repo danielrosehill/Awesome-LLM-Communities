@@ -2,6 +2,10 @@
 
 A list of communities (mostly subreddits) discussing topics related to generative pretrained transformer models (GPTs) and (to a lesser extent) large language models and generative AI more generally.
 
+![A sloth walking a dog on GPT Avenue](/images/banner.webp)
+
+*Image: A sloth walking a dog past GPT Avenue. Generation: DALLE.
+
 ## Contents
 
 - [Awesome GPT Communities ](#awesome-gpt-communities-)
