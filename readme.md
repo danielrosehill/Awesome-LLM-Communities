@@ -1,39 +1,32 @@
 # Awesome GPT Communities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Communities discussing professional applications for GPT and prompt engineering
-
+A list of communities (mostly subreddits) discussing topics related to generative pretrained transformer models (GPTs) and (to a lesser extent) large language models and generative AI more generally.
 
 ## Contents
 
 - [Awesome GPT Communities ](#awesome-gpt-communities-)
   - [Contents](#contents)
-  - [Section](#section)
-  - [Another Section](#another-section)
-    - [Subsection](#subsection)
-  - [Contribute](#contribute)
+  - [Subreddits](#subreddits)
+    - [ChatGPT-Specific](#chatgpt-specific)
+    - [Legacy Model Discussion](#legacy-model-discussion)
+    - [Company-Specific](#company-specific)
   - [Author](#author)
   - [Licensing](#licensing)
 
+## Subreddits
 
-## Section
+### ChatGPT-Specific
 
-About this section. Optional. Keep this short and focus on the list.
+- [r/ChatGPT](https://www.reddit.com/r/ChatGPT/) Large, popular subreddit for discussing ChatGPT. Not affiliated with or operated by OpenAI.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Legacy Model Discussion
 
+- [r/GPT3](https://www.reddit.com/r/GPT3/) As the name suggests, this subreddit is focused on discussing GPT-3 specifically. 
 
-## Another Section
+### Company-Specific
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+- [r/OpenAI]((https://www.reddit.com/r/OpenAI/)
+Discussion of OpenAI's projects, including GPT models and other AI innovations)
 
 ## Author
 
