@@ -4,7 +4,7 @@ A list of communities (mostly subreddits) discussing topics related to generativ
 
 ![A sloth walking a dog on GPT Avenue](/images/banner.webp)
 
-*Image: A sloth walking a dog past GPT Avenue. Generation: DALLE.
+*Image: A sloth walking a dog past GPT Avenue. Generation: DALLE*
 
 ## Contents
 
