@@ -1,5 +1,7 @@
 # Awesome GPT Communities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Awesome-LLM-Communities)
+
 A list of communities (mostly subreddits) discussing topics related to generative pretrained transformer models (GPTs) and (to a lesser extent) large language models and generative AI more generally.
 
 ![A sloth walking a dog on GPT Avenue](/images/banner.webp)
